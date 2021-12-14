@@ -1,3 +1,37 @@
 body {
-background-color: red;
+  background-color: #89CFF0;
+}
+h2{
+  color: #0CBABA;
+  background-color: #380036;
+  letter-spacing: 3px;
+  font-size: 150%;
+  text-shadow: 1px 1px #6B0F1A;
+}
+
+img {
+  width: 60%
+}
+nav{
+  list-style-type: none;
+  background-color: #222;
+  width: 100%;
+  left: 0;
+  top: 0;
+  margin: 0;
+  overflow: hidden;
+}
+li {
+  float: middle;
+}
+li a {
+  display: block;
+  color: white;
+  text-decoration: none;
+  padding: 1px 1px;
+}
+
+li a:hover {
+  background-color: antiquewhite;
+  color: black;
 }
