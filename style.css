@@ -1,6 +1,9 @@
 body {
   background-color: #89CFF0;
 }
+center {
+    text-align: -webkit-center;
+}
 h2{
   color: #0CBABA;
   background-color: #380036;
